@@ -31,3 +31,9 @@
 15. Then git add-comit-push (We're saving V2 of our data at this point)
 
 16. Repeat step 13-15 for v3 of data.
+
+
+
+git log --oneline
+git checkout <hash> - git checkout master
+dvc pull

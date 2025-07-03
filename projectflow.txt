@@ -20,4 +20,4 @@
 
 10. The id which we need to track the data is in data.dvc
 
-11. Now 
+11. Now, "dvc commit" and "dvc push" -> Now S3 gets filled.
